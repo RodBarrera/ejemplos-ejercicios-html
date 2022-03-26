@@ -1,0 +1,33 @@
+body{
+       background-color: rgb(197, 204, 202); 
+
+}
+
+.titulo1{
+    color: blue;
+    font-family: arial;
+    font-size: 40px;
+    text-shadow:6px 3px 3px rgb(133, 133, 167);
+    margin-left: 200px;
+}
+.foto{
+    margin-left: 270px;
+}
+
+.tabla1{
+
+    margin-left: 210px;
+    margin-top: 20px;
+    
+}
+.res{
+    color: rgb(1, 1, 15);
+    
+    
+}
+.tab{
+    color: rgb(1, 1, 15);
+}
+.form{
+    color: rgb(1, 1, 15);
+}
